@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Isometra&display=swap');
+
+.titulo {
+    color: red;
+}
+
+img {
+    border-radius: 20px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
